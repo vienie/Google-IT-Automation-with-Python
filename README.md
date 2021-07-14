@@ -10,5 +10,7 @@ These are the assessments i did for each of the courses.
 - Practice Quiz: Managing Files & Directories
 
 **Week 3 - Regular Expressions**
-- Practice Quiz: Regular Expressions
 - Practice Quiz: Basic Regular Expressions
+- Practice Quiz: Advanced Regular Expressions
+- Qwiklabs Assessment: Working with Regular Expressions
+
