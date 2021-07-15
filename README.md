@@ -1,5 +1,5 @@
 # Google IT Automation with Python
-Google IT Automation with Python (part of Coursea)
+Google IT Automation with Python Professional Certificate course (part of Coursea)
 
 These are the assessments i did for each of the courses.
 
@@ -14,3 +14,4 @@ These are the assessments i did for each of the courses.
 - Practice Quiz: Advanced Regular Expressions
 - Qwiklabs Assessment: Working with Regular Expressions
 
+**Week 4 - Managing Data and Processes**
