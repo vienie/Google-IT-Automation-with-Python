@@ -8,6 +8,8 @@ These are the assessments i did for each of the courses.
 
 **Week 2 - Managing Files with Python**
 - Practice Quiz: Managing Files & Directories
+- Practice Quiz: Reading & Writing CSV Files
+- Qwiklabs Assessment: Handling Files
 
 **Week 3 - Regular Expressions**
 - Practice Quiz: Basic Regular Expressions
