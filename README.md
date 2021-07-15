@@ -20,4 +20,3 @@ These are the assessments i did for each of the modules in this course.
 - Qwiklabs Assessment: Working with Log Files (find_error.py)
 
 **Week 5 - Testing in Python**
-- 
