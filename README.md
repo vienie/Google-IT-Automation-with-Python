@@ -17,3 +17,4 @@ These are the assessments i did for each of the modules in this course.
 - Qwiklabs Assessment: Working with Regular Expressions
 
 **Week 4 - Managing Data and Processes**
+- Qwiklabs Assessment: Working with Log Files (find_error.py)
