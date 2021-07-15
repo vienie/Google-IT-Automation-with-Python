@@ -1,7 +1,7 @@
 # Google IT Automation with Python
 Google IT Automation with Python Professional Certificate course (part of Coursea)
 
-These are the assessments i did for each of the courses.
+These are the assessments i did for each of the modules in this course.
 
 **Week 1 - Getting Your Python On**
 - Qwiklabs Assessment: Working with Python Scripts
