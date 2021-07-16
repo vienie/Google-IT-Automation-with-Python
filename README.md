@@ -22,5 +22,6 @@ These are the assessments i did for each of the modules in this course.
 **Week 5 - Testing in Python**
 - Practice Notebook - Unit Tests and Edge Cases (C2M5L2_Unit_Tests_and_Edge_Cases-V3.ipynb)
 - Practice Notebook - Errors and Exceptions (C2M5L4_Errors_and_Exceptions-V2.ipynb)
+- Qwiklabs Assessment: Implementing Unit Testing
 
 **Week 6 - Bash Scripting**
