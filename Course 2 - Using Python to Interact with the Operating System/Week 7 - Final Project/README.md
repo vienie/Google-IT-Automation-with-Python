@@ -3,7 +3,7 @@ Google IT Automation with Python Professional Certificate course (part of Course
 
 ## Using Python to Interact with the Operating System
 
-**Week 7 - Final Project**
+### Week 7 - Final Project
 
 **Introduction**
 Imagine your company uses a server that runs a service called ticky, an internal ticketing system. The service logs events to syslog, both when it runs successfully and when it encounters errors.
