@@ -25,3 +25,6 @@ These are the assessments i did for each of the modules in this course.
 - Qwiklabs Assessment: Implementing Unit Testing
 
 **Week 6 - Bash Scripting**
+- Qwiklabs Assessment: Editing Files Using Substrings (findJane.sh / changeJane.py)
+
+
