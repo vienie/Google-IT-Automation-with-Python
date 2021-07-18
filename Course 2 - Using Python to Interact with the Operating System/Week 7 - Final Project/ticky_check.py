@@ -56,7 +56,7 @@ file.close()
 # Insert at the beginning of the list
 errors_list.insert(0, ('Error', 'Count'))
 
-# * Create user_statistics.csv
+# Create user_statistics.csv
 with open('user_statistics.csv', 'w', newline='') as user_csv:
     for key, value in per_user_list:
         user_csv.write(str(key) + ',' +
