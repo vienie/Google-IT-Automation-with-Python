@@ -1,0 +1,31 @@
+Practice Quiz: Branching & Merging
+
+Q: The following code snippet represents the result of a merge conflict. Edit the code to fix the conflict and keep the version represented by the current branch.
+
+<<<<<<< HEAD         
+print("Keep me!")
+=======
+print("No, keep me instead!")
+>>>>>>> brancho-cucamonga
+
+
+A: print("Keep me!")
+
+
+Q: The following script contains the result of a merge conflict. Edit the code to fix the conflict, so that both versions are included.
+
+def main():
+<<<<<<< HEAD
+    print("Start of program>>>>>>>")
+=======
+    print("End of program!")
+>>>>>>> improvement-to-the-code
+
+main()
+
+A: def main():
+    print("Start of program>>>>>>>")
+    print("End of program!")
+
+main()
+
