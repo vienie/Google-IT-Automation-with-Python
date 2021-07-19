@@ -3,6 +3,8 @@ Google IT Automation with Python Professional Certificate course (part of Course
 
 These are the assessments i did for each of the modules in this course.
 
+## Using Python to Interact with the Operating System
+
 **Week 1 - Getting Your Python On**
 - Qwiklabs Assessment: Working with Python Scripts
 
@@ -27,4 +29,5 @@ These are the assessments i did for each of the modules in this course.
 **Week 6 - Bash Scripting**
 - Qwiklabs Assessment: Editing Files Using Substrings (findJane.sh / changeJane.py)
 
-
+## Introduction to Git and GitHub
+**Week 2 - ** 
