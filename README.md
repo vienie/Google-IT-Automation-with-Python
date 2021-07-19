@@ -29,5 +29,10 @@ These are the assessments i did for each of the modules in this course.
 **Week 6 - Bash Scripting**
 - Qwiklabs Assessment: Editing Files Using Substrings (findJane.sh / changeJane.py)
 
+
 ## Introduction to Git and GitHub
-**Week 2 - ** 
+
+**Week 2 - Using Git Locally** 
+- Practice Quiz: Branching & Merging
+
+
