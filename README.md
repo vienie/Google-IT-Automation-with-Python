@@ -32,7 +32,24 @@ These are the assessments i did for each of the modules in this course.
 
 ## Introduction to Git and GitHub
 
+**Week 1 - Introduction to Version Control**
+- Practice Quiz: Before Version Control
+- Practice Quiz: Version Control Systems
+- Practice Quiz: Usigin Git
+
 **Week 2 - Using Git Locally** 
+- Practice Qui: Advanced Git Interaction
+- Practice Quiz: Undoing things
 - Practice Quiz: Branching & Merging
+
+**Week 3 - Working with Remotes**
+- Practice Quiz/ Introduction to GitHub
+- Practice Quiz/ Using a Remote Repository
+- Practice Quiz/ Solving Conflicts
+
+**Week 4 - Collaboration**
+- Practice Quiz/ Pull requests
+- Practice Quiz/ Code reviews
+- Practice Quiz/ Managing Collaboration
 
 
