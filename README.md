@@ -52,4 +52,12 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz/ Code reviews
 - Practice Quiz/ Managing Collaboration
 
+## Troubleshooting and Debugging Techniques
+
+**Week 1 - Troubleshooting Concepts**
+- Practice Quiz: Introduction to Debugging
+- Practice Quiz: Understanding the Problem
+- Practice Quiz: Binary Searching a Problem
+
+**Week 2 - Slowness**
 
