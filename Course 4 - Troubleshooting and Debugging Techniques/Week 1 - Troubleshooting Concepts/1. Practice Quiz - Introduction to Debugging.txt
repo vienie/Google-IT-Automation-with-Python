@@ -1,0 +1,28 @@
+Practice Quiz: Introduction to Debugging
+
+
+
+Q: What is part of the final step when problem solving?
+A: Long-term remediation
+
+
+
+Q: Which tool can you use when debugging to look at library calls made by the software?
+A: ltrace
+
+
+
+Q: What is the first step of problem solving?
+A: Gathering information
+
+
+
+Q: What software tools are used to analyze network traffic to isolate problems? (Check all that apply)
+A: tcpdump
+A: wireshark
+
+
+
+Q: The strace (in Linux) tool allows us to see all of the _____ our program has made.
+A: System calls
+
