@@ -1,5 +1,12 @@
 Practice Quiz: Branching & Merging
 
+
+Q: When we merge two branches, one of two algorithms is used. If the branches have diverged, which algorithm is used?
+
+A: three-way merge
+
+
+
 Q: The following code snippet represents the result of a merge conflict. Edit the code to fix the conflict and keep the version represented by the current branch.
 
 <<<<<<< HEAD         
@@ -10,6 +17,19 @@ print("No, keep me instead!")
 
 
 A: print("Keep me!")
+
+
+
+Q: What command would we use to throw away a merge, and start over? 
+
+A: git merge --abort
+
+
+
+Q: How do we display a summarized view of the commit history for a repo, showing one line per commit? 
+
+A: git log --graph --oneline  
+
 
 
 Q: The following script contains the result of a merge conflict. Edit the code to fix the conflict, so that both versions are included.
