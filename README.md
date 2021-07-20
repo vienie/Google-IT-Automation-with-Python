@@ -60,4 +60,5 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz: Binary Searching a Problem
 
 **Week 2 - Slowness**
+- Practice Quiz - Understanding Slowness
 
