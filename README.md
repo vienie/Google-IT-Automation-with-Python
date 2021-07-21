@@ -71,5 +71,7 @@ These are the assessments i did for each of the modules in this course.
 
 **Week 4 - Managing Resources**
 - Practice Quiz - Managing Computer Resources
+- Practice Quiz - Managing Our Time
+- Practice Quiz - Making our future lives easier
 
 
