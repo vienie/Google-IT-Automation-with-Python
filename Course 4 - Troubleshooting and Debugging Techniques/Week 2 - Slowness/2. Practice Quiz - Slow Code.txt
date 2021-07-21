@@ -1,0 +1,39 @@
+Practice Quiz: Slow Code
+
+
+
+Q: Which of the following is NOT considered an expensive operation?
+
+A: Using a dictionary
+
+
+
+
+Q: Which of the following may be the most expensive to carry out in most automation tasks in a script?
+
+A: loops
+
+
+
+
+Q: Which of the following statements represents the most sound advice when writing scripts?
+
+A: Start by writing clear code, then speed it up only if necessary
+
+
+
+
+Q: In Python, what is a data structure that stores multiple pieces of data, in order, which can be changed later?
+
+A: lists
+
+
+
+
+Q: What command, keyword, module, or tool can be used to measure the amount of time it takes for an operation or program to execute? (Check all that apply)
+
+* time
+* kcachegrind
+* cProfile
+
+
