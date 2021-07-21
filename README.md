@@ -73,5 +73,6 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz - Managing Computer Resources
 - Practice Quiz - Managing Our Time
 - Practice Quiz - Making our future lives easier
+- Qwiklabs Assessment: Debugging and Solving Software Problems (start_date_report.py)
 
 
