@@ -1,0 +1,31 @@
+Practice Quiz: Managing Computer Resources
+
+
+
+Q: How can you profile an entire Python application?
+
+A: Use the guppy module
+
+
+
+Q: Your application is having difficulty sending and receiving large packets of data, which are also delaying other processes when connected to remote computers. Which of the following will be most effective on improving network traffic for the application?
+
+A: Use traffic shaping
+
+
+
+Q: What is the term referring to the amount of time it takes for a request to reach its destination, usually measured in milliseconds (ms)?
+
+A: Latency
+
+
+
+Q: If your computer is slowing down, what Linux program might we use to determine if we have a memory leak and what process might be causing it?
+
+A: top
+
+
+
+Q: Some programs open a temporary file, and immediately _____ the file before the process finishes, then the file continues to grow, which can cause slowdown.
+
+A: delete
