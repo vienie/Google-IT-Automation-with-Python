@@ -69,4 +69,7 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz- Code that Crashes
 - Practice Quiz - Handling Bigger Incidents
 
+**Week 4 - Managing Resources**
+- Practice Quiz - Managing Computer Resources
+
 
