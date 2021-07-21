@@ -61,4 +61,12 @@ These are the assessments i did for each of the modules in this course.
 
 **Week 2 - Slowness**
 - Practice Quiz - Understanding Slowness
+- Practice Quiz - Slow Code
+- Practice Quiz - When Slowness Problems Get Complex
+
+**Week 3 - Crashing Programs**
+- Practice Quiz - Why Programs Crash
+- Practice Quiz- Code that Crashes
+- Practice Quiz - Handling Bigger Incidents
+
 
