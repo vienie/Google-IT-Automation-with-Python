@@ -1,0 +1,36 @@
+Practice Quiz: Making Our Future Lives Easier
+
+
+
+
+Q: Which proactive practice can you implement to make troubleshooting issues in a program easier when they happen again, or face other similar issues?
+
+A: Create and update documentation
+
+
+
+
+Q: Which of the following is a good example of mixing and matching resources on a single server so that the running services make the best possible use of all resources?
+
+A: Run a RAM intensive application and a CPU intensive application on a server.
+
+
+
+
+Q: One strategy for debugging involves explaining the problem to yourself out loud. What is this technique known as?
+
+A: Rubber Ducking
+
+
+
+
+Q: When deploying software, what is a canary? 
+
+A: A test deployment to a subset of production hosts
+
+
+
+
+Q: It is advisable to collect monitoring information into a central location. Given the importance of the server handling the centralized collecting, when assessing risks from outages, this server could be described as what?
+
+A: A failure domain
