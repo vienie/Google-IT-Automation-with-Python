@@ -94,3 +94,5 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz: Automating Cloud Deployments
 - Qwiklabs Assessment: Create VM template and Automate deployment
 
+**Week 4 - Managing Cloud Instances at Scale**
+
