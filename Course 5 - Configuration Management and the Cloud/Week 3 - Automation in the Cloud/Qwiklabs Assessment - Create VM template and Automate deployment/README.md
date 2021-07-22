@@ -3,6 +3,7 @@
 **Missing from the Qwiklab assessment:** 
 
 During the instance template creation, under the '**Identity and API access**', you must select: **Qwiklab User Service Account** 
+
 (as shown in course-5-qwiklab.png)
 
 If you don't, you will not be able to get full access to the API. So when you run this command:
