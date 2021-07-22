@@ -7,9 +7,9 @@ The goal of this exercise is for you to see what Puppet looks like in action. Du
 The manifests used for the production environment are located in the directory /etc/puppet/code/environments/production/manifests, which contains a site.pp file with the node definitions that will be used for this deployment. On top of that, the modules directory contains a bunch of modules that are already in use. You'll be extending the code of this deployment to add more functionality to it.
 
 ### Install packages
-
+```
 cd /etc/puppet/code/environments/production/modules/packages
-
+```
 (On this Github: File for this is /packages/manifest/init.pp)
 
 ### Fetch machine information
@@ -41,3 +41,9 @@ Lastly, edit the site.pp file
 sudo nano /etc/puppet/code/environments/production/manifests/site.pp 
 
 (On this Github: file for this is site.pp)
+
+
+Note: remember to test for each step on the linux-instance VM, run this: 
+```
+sudo puppet agent -v --test 
+```
