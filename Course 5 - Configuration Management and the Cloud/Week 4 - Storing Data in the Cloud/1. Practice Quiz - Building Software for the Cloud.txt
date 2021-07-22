@@ -1,0 +1,37 @@
+Practice Quiz: Building Software for the Cloud
+
+
+
+Q: What is latency in terms of Cloud storage?
+
+A: The amount of time it takes to complete a read or write operation.
+
+
+
+
+Q: Which of the following statements about sticky sessions are true? (Select all that apply.)
+
+* All requests from the same client always go to the same backend server.
+* They can cause problems during migration.
+* They should only be used when needed.
+
+
+
+Q: If you run into limitations such as rate limits or utilization limits, you should contact the Cloud provider and ask for a _____.
+
+A: Quota increase
+
+
+
+Q: What is the term referring to everything needed to run a service?
+
+A: Environment
+
+
+
+
+Q: What is the term referring to a network of hosts spread in different geographical locations, allowing ISPs to be as close as possible to content?
+
+A: Content delivery network
+
+
