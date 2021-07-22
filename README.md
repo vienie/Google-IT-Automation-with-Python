@@ -88,5 +88,5 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz: Updating Deployments
 - Qwiklabs Assessment: Deployment Using Puppet
 
-**Week 3**
+**Week 3 - Automation in the Cloud**
 
