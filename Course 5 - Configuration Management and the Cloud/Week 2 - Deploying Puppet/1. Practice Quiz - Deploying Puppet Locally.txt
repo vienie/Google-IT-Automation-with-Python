@@ -1,0 +1,39 @@
+Practice Quiz: Deploying Puppet Locally
+
+
+
+
+Q; Puppet evaluates all functions, conditionals, and variables for each individual system, and generates a list of rules for that specific system. What are these individual lists of rules called? 
+
+A: Catalogs
+
+
+
+
+Q: After we install new modules that were made and shared by others, which folder in the module's directory will contain the new functions and facts? 
+
+A: lib
+
+
+
+
+
+Q: What file extension do manifest files use?
+
+A: pp
+
+
+
+
+
+Q: What is contained in the metadata.json file of a Puppet module?
+
+A: Additional data about the module
+
+
+
+
+
+Q: What does Puppet syntax dictate we do when referring to another resource attribute?
+
+A: Capitalize the attribute

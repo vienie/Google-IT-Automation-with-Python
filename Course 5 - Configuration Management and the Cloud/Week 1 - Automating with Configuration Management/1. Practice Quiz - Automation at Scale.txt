@@ -1,0 +1,40 @@
+Practice Quiz: Automation at Scale
+
+
+
+Q: What is IaC (Infrastructure as Code)?
+
+A: Using a version control system to deploy and manage node configurations
+
+
+
+
+Q: What is the principle called when you think of networked machines as interchangeable resources instead of individual machines?
+
+A: Treating computers like "cattle instead of pets"
+
+
+
+Q: What benefits can we gain by using automation to manage our configuration? (Check all that apply)
+
+* Consistency
+* Reliability
+* Scalability
+
+
+
+
+Q: Puppet is a commonly used configuration management system. Which of the following applications are also used for configuration management?
+
+* Chef
+* Ansible
+* CFEngine
+
+
+
+
+Q: A network administrator is accustomed to manually configuring the 5 nodes on the network he manages. However, the company he works for is quickly growing, and there are plans to expand the network to 200 nodes. What is the most reasonable course of action for the network administrator?
+
+A: Prepare scripts or download software for automated configuration
+
+
