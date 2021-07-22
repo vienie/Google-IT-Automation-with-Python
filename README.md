@@ -82,4 +82,10 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz: Introduction to Puppet
 - Practice Quiz: The Building Blocks of Configuration Management
 
+**Week 2 - Deploying Puppet**
+- Practice Quiz: Deploying Puppet Locally
+- Practice Quiz: Deploying Puppet to Clients
+- Practice Quiz: Updating Deployments
+
+**Week 3**
 
