@@ -86,6 +86,7 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz: Deploying Puppet Locally
 - Practice Quiz: Deploying Puppet to Clients
 - Practice Quiz: Updating Deployments
+- Qwiklabs Assessment: Deployment Using Puppet
 
 **Week 3**
 
