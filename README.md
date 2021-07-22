@@ -22,8 +22,8 @@ These are the assessments i did for each of the modules in this course.
 - Qwiklabs Assessment: Working with Log Files (find_error.py)
 
 **Week 5 - Testing in Python**
-- Practice Notebook - Unit Tests and Edge Cases (C2M5L2_Unit_Tests_and_Edge_Cases-V3.ipynb)
-- Practice Notebook - Errors and Exceptions (C2M5L4_Errors_and_Exceptions-V2.ipynb)
+- Practice Notebook: Unit Tests and Edge Cases (C2M5L2_Unit_Tests_and_Edge_Cases-V3.ipynb)
+- Practice Notebook: Errors and Exceptions (C2M5L4_Errors_and_Exceptions-V2.ipynb)
 - Qwiklabs Assessment: Implementing Unit Testing
 
 **Week 6 - Bash Scripting**
@@ -38,19 +38,19 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz: Usigin Git
 
 **Week 2 - Using Git Locally** 
-- Practice Qui: Advanced Git Interaction
+- Practice Quiz: Advanced Git Interaction
 - Practice Quiz: Undoing things
 - Practice Quiz: Branching & Merging
 
 **Week 3 - Working with Remotes**
-- Practice Quiz/ Introduction to GitHub
-- Practice Quiz/ Using a Remote Repository
-- Practice Quiz/ Solving Conflicts
+- Practice Quiz: Introduction to GitHub
+- Practice Quiz: Using a Remote Repository
+- Practice Quiz: Solving Conflicts
 
 **Week 4 - Collaboration**
-- Practice Quiz/ Pull requests
-- Practice Quiz/ Code reviews
-- Practice Quiz/ Managing Collaboration
+- Practice Quiz: Pull requests
+- Practice Quiz: Code reviews
+- Practice Quiz: Managing Collaboration
 
 ## Troubleshooting and Debugging Techniques (Course 4)
 
@@ -60,19 +60,19 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz: Binary Searching a Problem
 
 **Week 2 - Slowness**
-- Practice Quiz - Understanding Slowness
-- Practice Quiz - Slow Code
-- Practice Quiz - When Slowness Problems Get Complex
+- Practice Quiz: Understanding Slowness
+- Practice Quiz: Slow Code
+- Practice Quiz: When Slowness Problems Get Complex
 
 **Week 3 - Crashing Programs**
-- Practice Quiz - Why Programs Crash
-- Practice Quiz- Code that Crashes
-- Practice Quiz - Handling Bigger Incidents
+- Practice Quiz: Why Programs Crash
+- Practice Quiz: Code that Crashes
+- Practice Quiz: Handling Bigger Incidents
 
 **Week 4 - Managing Resources**
-- Practice Quiz - Managing Computer Resources
-- Practice Quiz - Managing Our Time
-- Practice Quiz - Making our future lives easier
+- Practice Quiz: Managing Computer Resources
+- Practice Quiz: Managing Our Time
+- Practice Quiz: Making our future lives easier
 - Qwiklabs Assessment: Debugging and Solving Software Problems (start_date_report.py)
 
 ## Configuration Management and the Cloud (Course 5)
@@ -89,4 +89,8 @@ These are the assessments i did for each of the modules in this course.
 - Qwiklabs Assessment: Deployment Using Puppet
 
 **Week 3 - Automation in the Cloud**
+- Practice Quiz: Cloud Computing
+- Practice Quiz: Managing Instances in the Cloud
+- Practice Quiz: Automating Cloud Deployments
+- Qwiklabs Assessment: Create VM template and Automate deployment
 
