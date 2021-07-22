@@ -75,4 +75,11 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz - Making our future lives easier
 - Qwiklabs Assessment: Debugging and Solving Software Problems (start_date_report.py)
 
+## Configuration Management and the Cloud (Course 5)
+
+**Week 1 - Automating with Configuration Management**
+- Practice Quiz: Automation at Scale
+- Practice Quiz: Introduction to Puppet
+- Practice Quiz: The Building Blocks of Configuration Management
+
 
