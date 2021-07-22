@@ -13,33 +13,33 @@ cd /etc/puppet/code/environments/production/modules/packages
 (On this Github: File for this is /packages/manifest/init.pp)
 
 ### Fetch machine information
-
+```
 cd /etc/puppet/code/environments/production/modules/machine_info
-
+```
 (On this Github: file for this is /machine_info/manifest/init.pp)
 
 ### Puppet Templates
-
+```
 cd /etc/puppet/code/environments/production/modules/machine_info
-
+```
 (On this Github: file for this is /machine_info/template/info.erb)
 
 ### Reboot machine
 
 Create a new directory: 
-
+```
 sudo mkdir -p /etc/puppet/code/environments/production/modules/reboot/manifests 
-
+```
 Change to dir:
-
+```
 cd /etc/puppet/code/environments/production/modules/reboot/manifests
-
+```
 (On this Github: file for this is /reboot/manifests/init.pp)
 
 Lastly, edit the site.pp file
-
+```
 sudo nano /etc/puppet/code/environments/production/manifests/site.pp 
-
+```
 (On this Github: file for this is site.pp)
 
 
