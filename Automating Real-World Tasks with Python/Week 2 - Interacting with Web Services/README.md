@@ -4,7 +4,7 @@
 
 **Introduction**
 
-You're working at a company that sells second-hand cars. Your company constantly collects feedback in the form of customer reviews. Your manager asks you to take those reviews (saved as .txt files) and display them on your company’s website. To do this, you’ll need to write a script to convert those .txt files and process them into Python dictionaries, then upload the data onto your company’s website (currently using Django).
+You're working at a company that sells second-hand cars. Your company constantly collects feedback in the form of customer reviews. Your manager asks you to take those reviews (saved as .txt files) and display them on your company’s website. To do this, you’ll need to write a script to convert those .txt files and process them into Python dictionaries, then upload the data onto your company’s website (currently using [Django](https://www.djangoproject.com/)).
 
 **What you'll do**
 
@@ -16,3 +16,19 @@ You're working at a company that sells second-hand cars. Your company constantly
 ---
 
 ### Solution
+
+Run run.py to process all text files in /data/feedback/
+
+output-results.txt just shows the print output to the terminal after you run the script (this file is not needed for this assessment).
+
+Finally, visit http://{corpweb external IP address}/feedback/ to see the results on your browser. 
+
+NOTE: If you get an error such as:
+```
+001.txt
+Traceback (most recent call last):
+  File "./run.py", line 20, in <module>
+    for line in txtfile:
+ValueError: I/O operation on closed file.
+```
+make sure your line of codes are properly indented.
