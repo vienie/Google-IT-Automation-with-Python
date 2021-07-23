@@ -17,7 +17,7 @@ Use the Python Imaging Library to do the following to a batch of images:
 
 ---
 
-#### Solution
+### Solution
 
 Create and run convert_image.py script inside /images directory. Before that, make the script executable. 
 
