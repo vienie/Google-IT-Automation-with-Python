@@ -26,10 +26,9 @@ chmod +x convert_images.py
 ./convert_images.py
 ```
 
-Once images have been converted, change directory to /opt/icons/ and check that the converted images exist
+Once images have been converted, ccheck the directory /opt/icons/ to make sure converted images exist
 
 ```
-cd /opt/icons/
-ls
+ls -la /opt/icons
 ```
 
