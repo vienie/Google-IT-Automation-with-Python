@@ -105,5 +105,5 @@ These are the assessments i did for each of the modules in this course.
 - Module 1 Project
 
 **Week 2 - Interacting with Web Services**
-
+- Module 2 Project
 
