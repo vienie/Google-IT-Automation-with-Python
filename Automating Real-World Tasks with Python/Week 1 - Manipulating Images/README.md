@@ -1,4 +1,6 @@
-## Qwiklabs Assessment: Scale and convert images using PIL
+## Module 1 Project
+
+### Qwiklabs Assessment: Scale and convert images using PIL
 
 Create and run convert_image.py script inside /images directory. Before that, make the script executable. 
 
