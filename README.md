@@ -99,4 +99,11 @@ These are the assessments i did for each of the modules in this course.
 - Practice Quiz: Monitoring & Alerting
 - Practice Quiz: Troubleshooting & Debugging
 
+## Automating Real-World Tasks with Python
+
+**Week 1 Manipulating Images**
+- Module 1 Project
+
+**Week 2 - Interacting with Web Services**
+
 
