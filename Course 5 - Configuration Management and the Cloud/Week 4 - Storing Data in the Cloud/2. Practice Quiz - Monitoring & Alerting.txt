@@ -1,0 +1,40 @@
+Practice Quiz: Monitoring & Alerting
+
+
+
+
+Q: What is a Service Level Agreement?
+
+A: A strict commitment between a provider and a client.
+
+
+
+
+
+Q: What is the most important aspect of an alert?
+
+A: It must be actionable.
+
+
+
+
+Q: Which part of an HTTP message from a web server is useful for tracking the overall status of the response and can be  monitored and logged?
+
+A: The response code in the server's message
+
+
+
+
+
+Q: To set up a new alert, we have to configure the _____ that triggers the alert. 
+
+A: Condition
+
+
+
+
+Q: When we collect metrics from inside a system, this is known as ______ monitoring.
+
+A: White-box
+
+
