@@ -18,8 +18,8 @@ You work for a company that sells second hand cars. Management wants to get a su
 
 This assessment is split into 2 parts. The first past is to generate a PDF report and send it by email with **example.py** script. Then check you have received the PDF report as an attachment using roundcube mail program. 
 
-The second part is to extract the data from car_sales.json and generate a car sales pdf report using **cars.py** script. Then, send it by email. Finally, you can check using roundcube email program to see if you have received the email with PDF attached.  
+The second part is to extract the data from car_sales.json and generate a car sales PDF report using **cars.py** script. Then, send it by email. Finally, you can check using roundcube email program to see if you have received the email with PDF attached.  
 
 You will find all the working Python3 scripts in /scripts directory on Github. All generated PDF reports are saved to /tmp but on the Qwiklab VM, the temp dir is <root>/tmp 
 
-  In /script directory, you'll also find __emails.py__ and __reports.py__ scripts. You can ignore these scripts. These are unmodified and are libaries used for emailing and generating PDF. 
+  In /script directory, you'll also find __emails.py__ and __reports.py__ scripts. You can ignore these scripts. These are unmodified and are libraries used for emailing and generating PDF. 
