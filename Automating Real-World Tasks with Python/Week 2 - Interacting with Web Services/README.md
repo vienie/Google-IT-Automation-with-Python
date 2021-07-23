@@ -21,7 +21,7 @@ Run run.py to process all text files in /data/feedback/
 
 output-results.txt just shows the print output to the terminal after you run the script (this file is not needed for this assessment).
 
-Finally, visit http://{corpweb external IP address}/feedback/ to see the results on your browser. 
+Finally, visit http://{corpweb external IP address}/feedback/ to see the results in your web browser. 
 
 NOTE: If you get an error such as:
 ```
