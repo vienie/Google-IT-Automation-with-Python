@@ -16,6 +16,10 @@ Finally, in parallel to the automation running, we want to check the health of t
 **What you'll do**
 
 - Write a script that summarizes and processes sales data into different categories
+- Convert images to smaller JPEG and text file for description
+- Upload content via a web service running using Django (Python framework)
 - Generate a PDF using Python
 - Automatically send a PDF by email
 - Write a script to check the health status of the system
+- Test health check script is working
+
