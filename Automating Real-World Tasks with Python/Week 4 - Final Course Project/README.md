@@ -44,5 +44,5 @@ Created **health_check.py** script that can be used to run in the background to 
 
 Setup Cron job to run health_check.py every 60 seconds (replace <your username> with the user name given to you by Qwiklab):
 ```
-1 * * * * /home/<your username>/health_check.py
+* * * * * /home/<your username>/health_check.py
 ```
