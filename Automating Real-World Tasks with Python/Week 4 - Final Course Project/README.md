@@ -46,3 +46,6 @@ Setup Cron job to run health_check.py every 60 seconds (replace <your username> 
 ```
 * * * * * /home/<your username>/health_check.py
 ```
+
+(See: [https://crontab.guru/#*_*_*_*_*](https://crontab.guru/#*_*_*_*_*))
+
