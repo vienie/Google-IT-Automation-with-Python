@@ -32,7 +32,7 @@ Python script named **changeImage.py** created to process the supplier images. I
 
 **supplier_image_upload.py** script is created to upload jpeg images from the ~/supplier-data/images directory and uploads them to the web server fruit catalog (ie, /mediaimages/).
 
-Django REST framework is already installed and running on the web server. Created a Python script that will automatically POST the fruit images and their respective description in JSON format. **run.py** scritp will process the text filesfrom ~/supplier-data/descriptions directory and upload (as JSON format) to web service. Check the website (http://[linux-instance-IP-Address]/) to make sure the HTML webpage is displaying the uploaded content.
+Django REST framework is already installed and running on the web server. Created a Python script that will automatically POST the fruit images and their respective description in JSON format. **run.py** script will process the text files from ~/supplier-data/descriptions directory and upload (as JSON format) to web service. Check the website (http://[linux-instance-IP-Address]/) to make sure the HTML webpage is displaying the uploaded content.
 
 Created **reports.py** script to generate PDF report and **report_email.py** to process supplier fruit description data from ~/supplier-data/descriptions directory. Created **emails.py** to send the email once PDF is generated. Make sure to login to Roundcube webmail program to check email has been received. 
 
@@ -42,3 +42,7 @@ Created **health_check.py** script that can be used to run in the background to 
 - Report an error if available memory is less than 500MB
 - Report an error if the hostname "localhost" cannot be resolved to "127.0.0.1"
 
+Setup Cron job to run health_check.py every 30 seconds (replace <your username> with the user name given to you by Qwiklab):
+```
+1 * * * * /home/<your username>/health_check.py
+```
