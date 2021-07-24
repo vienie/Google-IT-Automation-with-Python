@@ -109,3 +109,11 @@ These are the assessments i did for each of the modules in this course.
 **Week 2 - Interacting with Web Services**
 - Module 2 Project
 
+**Week 3 - Sending Emails from Python3**
+- Module 3 Project
+
+**Week 4 - Putting It All Together**
+- Final Course Project
+
+
+
