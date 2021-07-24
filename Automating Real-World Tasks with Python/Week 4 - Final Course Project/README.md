@@ -42,7 +42,7 @@ Created **health_check.py** script that can be used to run in the background to 
 - Report an error if available memory is less than 500MB
 - Report an error if the hostname "localhost" cannot be resolved to "127.0.0.1"
 
-Setup Cron job to run health_check.py every 30 seconds (replace <your username> with the user name given to you by Qwiklab):
+Setup Cron job to run health_check.py every 60 seconds (replace <your username> with the user name given to you by Qwiklab):
 ```
 1 * * * * /home/<your username>/health_check.py
 ```
